@@ -4,7 +4,7 @@ This repository provides a Python wrapper for the YouTube API, allowing users to
 Following tutorial https://youtu.be/D56_Cx36oGY.
 All credits to @thu-vu92
 
-## Getting Started
+### Getting Started
 
 To use the YouTube API wrapper, you will need to set up a Google API account and obtain an API key. You can follow the instructions in Google's API documentation to get started.
 
@@ -20,6 +20,6 @@ yt = YouTubeDataAPI(api_key)
 
 You can then use the yt object to interact with the YouTube API and retrieve data.
 
-Examples
+### Examples
 
 The repository includes several examples of how to use the wrapper to retrieve data from YouTube. These examples cover topics such as searching for videos, retrieving video details, and analyzing video comments.
